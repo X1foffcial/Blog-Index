@@ -1,7 +1,7 @@
 const WEBSITE_SORTS: WebsiteSort[] = [
-  { id: 1, title: "示例分类1" },
-  { id: 2, title: "示例分类2" },
-  { id: 3, title: "示例分类3" },
+  { id: 1, title: "social media" },
+  { id: 2, title: "introduction" },
+  { id: 3, title: "game" },
   { id: 4, title: "示例分类4" },
   { id: 5, title: "示例分类5" },
   { id: 6, title: "友情链接" },
@@ -10,14 +10,14 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
-    title: "主标题",
-    url: "http://www.your-web-page.com/",
+    title: "email",
+    url: "http://286661613@qq.com/",
     icon: "",
     color: "#0171CD",
   },
   {
     sortId: 1,
-    title: "主标题",
+    title: "X",
     description: "网站描述",
     url: "http://www.your-web-page.com/",
     icon: "",
